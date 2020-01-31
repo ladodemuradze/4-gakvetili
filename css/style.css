@@ -1,14 +1,15 @@
 /*base clases*/
 .background-cl{
 	background-color: #22B573;
+	float:left;
 }
 .float-right{
 	float:right;
-
+	
 }
 .containter {
-	width: : 1170px;
-	margin: 20px auto;
+	width: : 100%;
+	margin: 2% 5% 5% 2%;
 }
 .clear{
 	clear: both;
@@ -17,8 +18,8 @@
 
 .navigation{
 	vertical-align:middle;
-	width: : 1170px;
-	margin: 20px auto;
+	width: : 100%;
+	margin: -2%;
 }
 .nav-ul {
 
@@ -30,14 +31,12 @@
 	vertical-align:middle;
 }
 .nav-a{
-	font-size: 36px;
+	font-size: 250%;
 }
 
 /*section*/
 .article-box {
-	float:right;
 width: 151px;
 background-color: #FCEE21;
 
 }
-
