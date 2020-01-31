@@ -7,7 +7,7 @@
 	float:right;
 
 }
-.containter {
+.heder {
 	width: : 90%;
 	margin: 2% 5% 5% 2%;
 }
@@ -36,7 +36,6 @@
 
 /*section*/
 .article-box {
-width: 90%;
 background-color: #FCEE21;
 
 }
@@ -46,6 +45,39 @@ height: 10%;
 width: 10%;
 
 }
-.d-inline{
-  display: inline-block;
+
+/*test*/
+.image-wraper{
+	height: 30%;
+	vertical-align: top;
+	margin-right: 6%;
+	margin-top:2%; 
+
+}
+.wraper-p{
+	width: 34%;
+	vertical-align: top;
+	color:#696969;
+	text-align: left;
+	padding: 5px;
+	}
+	wraper-title {
+	margin-top:10%;
+	
+
+}
+.dashoreba{
+	margin-top: 2%;
+}
+.c-inline-block{
+	display: inline-block;
+	}
+	.container{
+	width: : 117%;
+	margin: auto 20px;
+}
+}
+.active-size{
+	margin-right: 30px;
+
 }
