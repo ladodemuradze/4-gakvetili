@@ -1,0 +1,43 @@
+/*base clases*/
+.background-cl{
+	background-color: #22B573;
+}
+.float-right{
+	float:right;
+
+}
+.containter {
+	width: : 1170px;
+	margin: 20px auto;
+}
+.clear{
+	clear: both;
+}
+/*heder*/
+
+.navigation{
+	vertical-align:middle;
+	width: : 1170px;
+	margin: 20px auto;
+}
+.nav-ul {
+
+	list-style: none;
+}
+.nav-li {
+	display: inline-block;
+	margin: 36px;
+	vertical-align:middle;
+}
+.nav-a{
+	font-size: 36px;
+}
+
+/*section*/
+.article-box {
+	float:right;
+width: 151px;
+background-color: #FCEE21;
+
+}
+
