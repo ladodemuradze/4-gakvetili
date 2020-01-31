@@ -5,10 +5,10 @@
 }
 .float-right{
 	float:right;
-	
+
 }
 .containter {
-	width: : 100%;
+	width: : 90%;
 	margin: 2% 5% 5% 2%;
 }
 .clear{
@@ -18,7 +18,7 @@
 
 .navigation{
 	vertical-align:middle;
-	width: : 100%;
+	width: : 90%;
 	margin: -2%;
 }
 .nav-ul {
@@ -27,8 +27,8 @@
 }
 .nav-li {
 	display: inline-block;
-	margin: 36px;
-	vertical-align:middle;
+	margin: 50px;
+
 }
 .nav-a{
 	font-size: 250%;
@@ -36,7 +36,16 @@
 
 /*section*/
 .article-box {
-width: 151px;
+width: 90%;
 background-color: #FCEE21;
 
+}
+.image-a{
+float: right;
+height: 10%;
+width: 10%;
+
+}
+.d-inline{
+  display: inline-block;
 }
