@@ -55,13 +55,13 @@ width: 10%;
 
 }
 .wraper-p{
-	width: 34%;
-	vertical-align: top;
+	width: 40%;
+	vertical-align: right;
 	color:#696969;
 	text-align: left;
-	padding: 5px;
+	padding: 10px;
 	}
-	wraper-title {
+.wraper-title {
 	margin-top:10%;
 	
 
@@ -72,12 +72,12 @@ width: 10%;
 .c-inline-block{
 	display: inline-block;
 	}
-	.container{
+.container{
 	width: : 117%;
-	margin: auto 20px;
+	margin: 30% ;
 }
 }
 .active-size{
-	margin-right: 30px;
+	margin-right: 5px;
 
 }
