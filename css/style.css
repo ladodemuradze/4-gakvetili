@@ -1,83 +1,45 @@
-/*base clases*/
-.background-cl{
-	background-color: #22B573;
-	float:left;
+.green-box {
+background-color:green;
+border: 2px solid black;
 }
-.float-right{
-	float:right;
-
+.navigation {
+float: right;
 }
-.heder {
-	width: : 90%;
-	margin: 2% 5% 5% 2%;
+.navigation-li {
+	display: inline-block;
+}
+.logo{
+	float: right;
+}
+.logo img {
+	height: 150px;
 }
 .clear{
-	clear: both;
+clear: both;
 }
-/*heder*/
-
-.navigation{
-	vertical-align:middle;
-	width: : 90%;
-	margin: -2%;
+.yellow-box {
+	float: left;
+	width: 617px;
+	background-color: yellow;
+	padding: 15px;
 }
-.nav-ul {
-
-	list-style: none;
-}
-.nav-li {
-	display: inline-block;
-	margin: 50px;
+.main-box::after {
+	content: '';
+	clear:both;
+	display: block;
 
 }
-.nav-a{
-	font-size: 250%;
+.size {
+	margin-right: 30px;
 }
-
-/*section*/
-.article-box {
-background-color: #FCEE21;
-
+.float-right {
+	float: right;
+	margin-left: 30px;
 }
-.image-a{
-float: right;
-height: 10%;
-width: 10%;
-
+.float-left {
+	float: left;
+	margin-right: 30px; 
 }
-
-/*test*/
-.image-wraper{
-	height: 30%;
-	vertical-align: top;
-	margin-right: 6%;
-	margin-top:2%; 
-
-}
-.wraper-p{
-	width: 40%;
-	vertical-align: right;
-	color:#696969;
-	text-align: left;
-	padding: 10px;
-	}
-.wraper-title {
-	margin-top:10%;
-	
-
-}
-.dashoreba{
-	margin-top: 2%;
-}
-.c-inline-block{
-	display: inline-block;
-	}
-.container{
-	width: : 117%;
-	margin: 30% ;
-}
-}
-.active-size{
-	margin-right: 5px;
-
+.text-p {
+	margin-bottom: 30px;
 }
